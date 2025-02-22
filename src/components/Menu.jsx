@@ -11,7 +11,7 @@ export const Menu = ({ data }) => {
           <th scope="col">#</th>
           <th scope="col">Name of Recipe</th>
           <th scope="col">Images</th>
-          <th scope="col">Instruction</th>
+          <th scope="col">Ingredients</th>
         </tr>
       </thead>
       <tbody>
